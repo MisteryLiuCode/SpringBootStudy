@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/A-Configuration/pom.xml" />
         <option value="$PROJECT_DIR$/B-Conditional/pom.xml" />
         <option value="$PROJECT_DIR$/C-ConfigurantionProperties/pom.xml" />
+        <option value="$PROJECT_DIR$/D-Interceptor/pom.xml" />
       </list>
     </option>
   </component>
